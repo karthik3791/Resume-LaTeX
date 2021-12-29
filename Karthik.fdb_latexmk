@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1640782949 "Karthik.xdv" "Karthik.pdf" "Karthik" 1640782950
-  "Karthik.xdv" 1640782949 33096 e46930411572b1c4bbdb368375473ab1 "xelatex"
+["xdvipdfmx"] 1640788258 "Karthik.xdv" "Karthik.pdf" "Karthik" 1640788258
+  "Karthik.xdv" 1640788258 33680 961cf53994dfcf0ded1b4ad47be85990 "xelatex"
   (generated)
   "Karthik.pdf"
-["xelatex"] 1640782946 "c:/git/Resume-LaTeX/Karthik.tex" "Karthik.xdv" "Karthik" 1640782950
+["xelatex"] 1640788254 "c:/git/Resume-LaTeX/Karthik.tex" "Karthik.xdv" "Karthik" 1640788258
   "C:/Users/karth_pv87q1m/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1640753607 23181686 a7cb5ea6f00b05ff58ecd6bf4361c65f ""
   "C:/Working/miktex/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136743454 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "C:/Working/miktex/fonts/tfm/public/cm/cmmi10.tfm" 1136765053 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -87,16 +87,16 @@
   "C:/Working/miktex/tex/latex/xcolor/xcolor.sty" 1636284872 56029 3f7889dab51d620aa43177c391b7b190 ""
   "C:/Working/miktex/tex/latex/xifthen/xifthen.sty" 1448274436 5689 1bfa68243e89a54479e7d0580773c57e ""
   "C:/Working/miktex/tex/latex/xkeyval/xkeyval.sty" 1623005690 4902 efb3d66683a2da2a232f71e3a571a899 ""
-  "Karthik.aux" 1640782949 652 27234ec14a0cd9df31d7cc62edcdbc23 "xelatex"
-  "Karthik.out" 1640782949 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "Karthik.aux" 1640788258 652 27234ec14a0cd9df31d7cc62edcdbc23 "xelatex"
+  "Karthik.out" 1640788258 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
   "Karthik.tex" 1640768566 2338 b11be289d69f1895a18b961f71404808 ""
   "awesome-cv.cls" 1640752836 23430 fcf0a196931919ddfbd3900cbb91a08e ""
   "c:/git/Resume-LaTeX/Karthik.tex" 1640768566 2338 b11be289d69f1895a18b961f71404808 ""
   "fontawesome.sty" 1640752836 84729 355f16a7bd7ed1782c4e1f3a0b78b931 ""
   "resume/education.tex" 1640779238 542 1f335369285f885fe3480e6cd01e0ea2 ""
-  "resume/experience.tex" 1640782945 2131 1b8160de4545039f26df13409ff69c51 ""
-  "resume/skills.tex" 1640782893 709 5b0c86de05bf6a1c8556c4f295150445 ""
-  "resume/summary.tex" 1640774481 448 658cc435da9895edecb450bd9b4a0b13 ""
+  "resume/experience.tex" 1640788254 2209 7ce4b8f92741dd2da8efbac61cec80e5 ""
+  "resume/skills.tex" 1640788195 708 f77222006633b16290af4547155f877e ""
+  "resume/summary.tex" 1640787355 441 522cf0b586bb9747270ab1ce0157ef1c ""
   (generated)
   "Karthik.aux"
   "Karthik.log"
